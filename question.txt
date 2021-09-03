@@ -1,0 +1,5 @@
+Hi, This is sujitha Rasamsetty and I am an aspiring DataScientist ...
+
+--> I this project , I converted Text to Type Written file using pywhat kit
+--> Import pywhat kit using pip module 
+--> pip install pywhat kit using command prompt
